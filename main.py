@@ -6,7 +6,7 @@ from requests import get
 import json
 client = commands.Bot(command_prefix="$")
 
-
+#this is to keep the bot alive
 @client.event
 async def on_ready():
     print(f"Connected to {client.user}")
