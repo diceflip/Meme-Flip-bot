@@ -1,3 +1,4 @@
+#this is to keep the bot alive using flash
 from flask import Flask
 from threading import Thread
 
