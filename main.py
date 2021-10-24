@@ -23,3 +23,4 @@ async def meme(ctx):
 my_secret = os.environ['Token']
 keep_alive.keep_alive()
 client.run(my_secret)
+#store the token of your bot inside an env file
