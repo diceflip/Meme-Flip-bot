@@ -7,12 +7,13 @@
 
 #  Commands
   
-<h3>$meme - for a meme</h3>
+<h3>$meme - for a random meme from the internet</h3>
 <h3>$cry - to make the bot cry</h3>
 <h3>$laugh - to make the bot laugh to death</h3>
 <h3>$rickroll - for getting rickrolled</h3>
 <h3>$fuck - Idk why ☹</h3>
 <h3>$invite - to get the invite link of the bot</h3>
+<h3>$source - to get the link of the github repo</h3>
 
 #  Source Code
 
