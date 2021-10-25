@@ -3,7 +3,7 @@
 
   <p align="center">
   <a href="https://dsc.gg/meme-flip">
-    <img src="https://img.shields.io/badge/INVITE-BOT-blue" alt="Invite Bot""></a> * <a href = "https://dsc.gg/diceflip-games"> <img src="https://img.shields.io/badge/SUPPORT-SERVER-green" alt="Invite Bot""></a>
+    <img src="https://img.shields.io/badge/INVITE-BOT-blue" alt="Invite Bot""></a> * <a href = "https://dsc.gg/diceflip-games"> <img src="https://img.shields.io/badge/SUPPORT-SERVER-green" alt="Invite Bot""></a> * <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=BOT%20STATUS&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fmemeflip.diceflip.repl.co%2F">
 
   
 
