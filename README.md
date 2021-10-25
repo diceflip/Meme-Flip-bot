@@ -1,6 +1,5 @@
 <center> <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Meme Flip&fontSize=65&fontAlignY=35&animation=twinkling&fontColor=gradient&desc=Discord Meme Bot&descSize=200)"></img> </center>
-
-<h3 align = "center">A simple discord bot that can post memes on discord using discord.py</h3>
+<h2 align = "center">A simple discord bot that can post memes on discord using discord.py</h2>
 
   <p align="center">
   <a href="https://dsc.gg/meme-flip">
