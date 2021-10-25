@@ -7,6 +7,7 @@
 
 #  Commands
   
+<h3>$commands - to see all commands</h3>
 <h3>$meme - for a random meme from the internet</h3>
 <h3>$cry - to make the bot cry</h3>
 <h3>$laugh - to make the bot laugh to death</h3>
