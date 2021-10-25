@@ -1,4 +1,4 @@
-#this is to keep the bot alive using flash
+#this is to keep the bot alive using flask
 from flask import Flask
 from threading import Thread
 
