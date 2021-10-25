@@ -5,5 +5,17 @@
   <a href="https://discord.com/oauth2/authorize?client_id=892662068191322205&scope=bot&permissions=2147867712">
     <img src="https://img.shields.io/badge/INVITE-BOT-blue" alt="Invite Bot""></a> * <a href = "https://dsc.gg/diceflip-games"> <img src="https://img.shields.io/badge/SUPPORT-SERVER-blueviolet" alt="Invite Bot""></a> * <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=BOT%20STATUS&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fmemeflip.diceflip.repl.co%2F">
 
+#  Commands
+  
+<h3>$meme - for a meme</h3>
+<h3>$cry - to make the bot cry</h3>
+<h3>$laugh - to make the bot laugh to death</h3>
+<h3>$rickroll - for getting rickrolled</h3>
+<h3>$fuck - Idk why ☹</h3>
+<h3>$invite - to get the invite link of the bot</h3>
+
+#  Source Code
+
+<h3>The entire source of the bot is public. You can use it by forking.</h3>
   
 
