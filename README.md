@@ -1,2 +1,10 @@
-# Meme-Flip-bot
-A simple discord bot that can post memes on discord using discord.py
+<center> <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Meme Flip&fontSize=65&fontAlignY=35&animation=twinkling&fontColor=gradient&desc=Discord Meme Bot&descSize=200)"></img> </center>
+
+<h3 align = "center">A simple discord bot that can post memes on discord using discord.py</h3>
+
+  <p align="center">
+  <a href="https://dsc.gg/meme-flip">
+    <img src="https://img.shields.io/badge/INVITE-BOT-blue" alt="Invite Bot""></a> * <a href = "https://dsc.gg/diceflip-games"> <img src="https://img.shields.io/badge/SUPPORT-SERVER-green" alt="Invite Bot""></a>
+
+  
+
