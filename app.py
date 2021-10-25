@@ -1,4 +1,4 @@
-#flash is used for running the bot
+#flask is used for running the bot
 from flask import Flask, escape, request
 
 app = Flask(__name__)
