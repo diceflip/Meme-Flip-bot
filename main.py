@@ -50,7 +50,7 @@ async def source(ctx):
 #cry command
 @client.command()
 async def cry(ctx):
-    embed=discord.Embed(title="Heat Blast :", url="", description="Heatblast is the Omnitrix's DNA sample of a Pyronite from the planet-like star of Pyros.HeatBlast was Ben's first alien", color=0xd69a00)
+    embed=discord.Embed(title="Meme Flip :", url="", description="You made me cry, you dumb", color=0xd69a00)
     embed.set_thumbnail(url="https://c.tenor.com/vM2hP3AsiP8AAAAM/%E0%A4%87%E0%A4%AE%E0%A5%8B%E0%A4%9C%E0%A5%80-%E0%A4%B0%E0%A5%8B%E0%A4%A8%E0%A4%BE.gif")
     await ctx.reply(embed=embed)
 
