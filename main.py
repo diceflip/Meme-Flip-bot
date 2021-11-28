@@ -1,3 +1,5 @@
+
+   
 import os
 import keep_alive
 import discord
@@ -29,7 +31,7 @@ async def invite(ctx):
 #all the commands
 @client.command()
 async def commands(ctx):
-    embed=discord.Embed(title="Bot Commands", url="", description="$meme - for a meme\n$cry - to make the bot cry\n$laugh - to make the bot laugh to death\n$rickroll - for getting rickrolled\n$fuck - Idk why ☹\n$invite - to get the invite link of the bot", color=0x11c704)
+    embed=discord.Embed(title="Bot Commands", url="", description="$meme - for a meme\n$cry - to make the bot cry\n$laugh - to make the bot laugh to death\n$rickroll - for getting rickrolled\n$fuck - Idk why ☹\n$invite - to get the invite link of the bot/n$help - to get help ", color=0x11c704)
     embed.set_thumbnail(url="https://github.com/diceflip/Meme-Flip-bot/blob/main/BotLogo.png?raw=true")
     await ctx.reply(embed=embed)
  
@@ -68,6 +70,12 @@ async def meme(ctx):
     data = json.loads(content,)
     meme = discord.Embed(title=f"{data['title']}", Color = discord.Color.random()).set_image(url=f"{data['url']}")
     await ctx.reply(embed=meme)
+    #help command
+    @client.commmand()
+    async def help(ctx):
+    embed=discord.Embed(tittle:"Help", url="", description="To get all commands use $commands - you can invite me here by the way: https://github.com/diceflip/Meme-Flip-bot ", color=00000000)
+    embed.set_thumnail(url="https://cdn.psychologytoday.com/sites/default/files/styles/image-article_inline_full/public/field_blog_entry_images/2018-04/help-153094_1280_pixabay_openclipart-vectors.png?itok=ZdqGxDBy"
+    await ctx.reply(embed=embed)
 my_secret = os.environ['Token']
 keep_alive.keep_alive()
 client.run(my_secret)
