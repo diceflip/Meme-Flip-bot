@@ -2,8 +2,8 @@
 <h2 align = "center">A simple fun discord bot using discord.py</h2>
 
   <p align="center">
-  <a href="https://discord.com/oauth2/authorize?client_id=892662068191322205&scope=bot&permissions=2147867712">
-    <img src="https://img.shields.io/badge/INVITE-BOT-blue" alt="Invite Bot""></a> * <a href = "https://dsc.gg/diceflip-games"> <img src="https://img.shields.io/badge/SUPPORT-SERVER-blueviolet" alt="Invite Bot""></a> * <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=BOT%20STATUS&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fmemeflip.diceflip.repl.co%2F">
+  <a href="https://discord.com/oauth2/authorize?client_id=913316045673070632&permissions=37080128&scope=bot">
+    <img src="https://img.shields.io/badge/INVITE-BOT-blue" alt="Invite Bot""></a> * <a href = "https://discord.gg/vHw5wAhGVK"> <img src="https://img.shields.io/badge/SUPPORT-SERVER-blueviolet" alt="Invite Bot""></a> * <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=BOT%20STATUS&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fmemeflip.diceflip.repl.co%2F">
 
 #  Commands
   
