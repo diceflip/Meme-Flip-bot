@@ -12,12 +12,6 @@ client = commands.Bot(command_prefix="$")
 @client.event
 async def on_ready():
     print(f"Connected to {client.user}")
-   
-   
-#idk why this lol
-@client.command()
-async def fuck(ctx):
-   await ctx.reply("**You, fuck off**")
 
 #to invite the bot
 @client.command()
